@@ -1,0 +1,1 @@
+"C:\Unity\2021.3.19f1\Editor\Unity.exe" -projectPath "C:\Unity\Projects\VRTrainSimulator stable"
