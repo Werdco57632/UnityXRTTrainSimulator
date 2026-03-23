@@ -1,10 +1,10 @@
-﻿# Train Simulator UNITY_NEW (see build instructions at the bottom)
+﻿# Train Simulator UNITY\_NEW (see build instructions at the bottom)
 
 Latest Documentation Video:
 
 [Documentation #2](https://youtu.be/9V9BPrxdGQA)
 
-(Latest documentation video is up to date)
+(Latest documentation video is 1 version behind)
 
 
 
@@ -23,6 +23,8 @@ Current features:
 * You can place and modify tracks for trains to run on
 * A train will go down a track at configurable intervals and speed
 * There is a timer visible on the track showing how long until the next train
+* Human NPCS (instructor and workers as well as other models plus animations)
+* Instruction Board (no functionality yet)
 
 
 
